@@ -16,7 +16,7 @@ Save this command in bat file `D:\Danphe\start.bat`
 2. `--identity "YOURNAME"` : Set your node's identity/name to ~~YOURNAME~~ 
 3. `--ws` : Start websocket API
 4. `--wsorigins "*"` : Accept all websocket origins
-5. `--ethstats "YOURNAME:DaNpHeMoNaL@stats.danphe.network"` : Connect your node to [Stats Server](https://stats.danphe.network).
+5. `--ethstats "YOURNAME:DaNpHeMoNaL@stats.danphe.network"` : Connect your node to [Stats Server](https://stats.danphe.network) as ~~YOURNAME~~.
 6. `console` : Start Geth JavaScript console.
 
 
