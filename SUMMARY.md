@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Download Client](getting-started.md)
+* [Download Client](download-client.md)
 * [Running Local Client](running-local-client.md)
 

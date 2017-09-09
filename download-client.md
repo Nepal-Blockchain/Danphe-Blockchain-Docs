@@ -10,5 +10,3 @@ Download client binaries for specific OS/Architecture.
 |geth-linux-arm-7.gz|Linux/arm7|f4a9a2e5|7,914 KB|[Download](https://mega.nz/#!TIZxgSZD!VKh5Le8D4511CLX_uE6cmT-Ihoe_X8mAwW_MB_NhyPU)|
 |geth-windows-4.0-386.exe.gz|Win/32 bits|f4a9a2e5|6,291 KB|[Download](https://mega.nz/#!rcwRHD4R!6vOWQR8jc9U07DexVADzwUOpdUf5S_U0hnb21DtG1YY)|
 |geth-windows-4.0-amd64.exe.gz|Win/64 bits|f4a9a2e5|6,726 KB|[Download](https://mega.nz/#!TZZVCRbZ!heR-7nh1rh2Hdrm5X6j0Nn26chKChEz1q9x4YCFZI88)|
-
-
