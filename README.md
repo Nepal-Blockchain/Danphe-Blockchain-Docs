@@ -1,4 +1,4 @@
-#Danphe Blockchain As A Service, Nepal
+#Danphe Blockchain As A Service
 
 
 
