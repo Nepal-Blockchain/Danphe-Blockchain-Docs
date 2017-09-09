@@ -8,7 +8,8 @@ Rename client file to short `geth.exe`
 ##Start 
 Use this command to connect with https://web3.danphe.network & other web3 socket clients
 >`geth.exe --danphe --identity "YOURNAME" --ws --wsorigins "*" --ethstats "YOURNAME:DaNpHeMoNaL@stats.danphe.network" console`↵
-You can edit & save this command as `start.bat` file inside `D:\Danphe\start.bat`  
+
+Save this command in bat file `D:\Danphe\start.bat`
 
 #### Flags description
 1. `--danphe`(required): Switch to Danphe Blockchain. 
