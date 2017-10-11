@@ -1,12 +1,19 @@
-#[Download Client](https://mega.nz/#!TZZVCRbZ!heR-7nh1rh2Hdrm5X6j0Nn26chKChEz1q9x4YCFZI88)
+#[Download V1.7.1 Client](https://mega.nz/#F!OEAjwJ5Q!xEwlGEqc0Ttaz7uNt0RZig)
 
-Download client binaries for specific OS/Architecture.
+Download v1.7.1 client binaries for specific OS/Architecture.
 
-| File Name | OS/Arch| Commit | Size | Link |
+| File Name | OS/Arch| Commit | Zip file|
 |---|---|---|---|---|
-|geth-darwin-10.6-amd64.gz|Darwin/amd64|f4a9a2e5|6,861 KB|[Download](https://mega.nz/#!HYIVTLjD!Zh8MIfkhu-lqde6zIQl3oAAQj5ahh02ID3Sg5W8LLDU)|
-|geth-linux-386.gz|Linux/386|f4a9a2e5|8,079 KB|[Download](https://mega.nz/#!LIohHY5K!TwSKadEu4D8yE3YpwwQmWg6mHF-STdY9v6s7_jyF-rI)|
-|geth-linux-amd64.gz|Linux/amd64|f4a9a2e5|8,547 KB|[Download](https://mega.nz/#!rcIzERQL!Pzgh4iuEnj03r8FcGZiaIXkXYjcXeBi8FqpBdZgEUgQ)|
-|geth-linux-arm-7.gz|Linux/arm7|f4a9a2e5|7,914 KB|[Download](https://mega.nz/#!TIZxgSZD!VKh5Le8D4511CLX_uE6cmT-Ihoe_X8mAwW_MB_NhyPU)|
-|geth-windows-4.0-386.exe.gz|Win/32 bits|f4a9a2e5|6,291 KB|[Download](https://mega.nz/#!rcwRHD4R!6vOWQR8jc9U07DexVADzwUOpdUf5S_U0hnb21DtG1YY)|
-|geth-windows-4.0-amd64.exe.gz|Win/64 bits|f4a9a2e5|6,726 KB|[Download](https://mega.nz/#!TZZVCRbZ!heR-7nh1rh2Hdrm5X6j0Nn26chKChEz1q9x4YCFZI88)|
+|geth-windows-4.0-386.exe.gz|Win/32bits|c8e12560|[Download](https://mega.nz/#!XYxV2LYK!z-Qmka5YoIfqo8LJUE3ROvz5habXkSWZCgNiYChfdrY)|
+|geth-windows-4.0-amd64.exe.gz|Win/64bits|c8e12560|[Download](https://mega.nz/#!XAQRULYZ!Vc-0qRmCfBHQqGlaVrQjDGR0QUzT467T6mzGEoZRbvk)|
+|geth-darwin-10.6-amd64.gz|Darwin/amd64|c8e12560|[Download](https://mega.nz/#!LNY2EaZb!kNcSrD0SH5uDR4lN-j4Lw_xfwZBb11aDZQ-c6R5MZDw)|
+|geth-linux-arm-7.gz|Linux/arm7|c8e12560|[Download](https://mega.nz/#!TIZxgSZD!VKh5Le8D4511CLX_uE6cmT-Ihoe_X8mAwW_MB_NhyPU)|
+|geth-linux-386.gz|Linux/386|c8e12560|[Download](https://mega.nz/#!LIohHY5K!TwSKadEu4D8yE3YpwwQmWg6mHF-STdY9v6s7_jyF-rI)|
+|geth-linux-amd64.gz|Linux/amd64|c8e12560|[Download](https://mega.nz/#!XAQRULYZ!Vc-0qRmCfBHQqGlaVrQjDGR0QUzT467T6mzGEoZRbvk)|
+
+https://mega.nz/#!6dBXwbBD!QLtu9s2g2m2O0lcMkCpQJmhgzMjTkm7DjMRDafmZRmI
+https://mega.nz/#!3dwm3QjC!UMubyK-kCvczJCjG39d02HbcujIqA-mrYFT-yoYuCOY
+https://mega.nz/#!WF4GVa6A!mCEzAveodLhLx7TcR3vmm1a17IfXRea086fPcNQ5sa4
+https://mega.nz/#!LNY2EaZb!kNcSrD0SH5uDR4lN-j4Lw_xfwZBb11aDZQ-c6R5MZDw
+https://mega.nz/#!XAQRULYZ!Vc-0qRmCfBHQqGlaVrQjDGR0QUzT467T6mzGEoZRbvk
+https://mega.nz/#!XYxV2LYK!z-Qmka5YoIfqo8LJUE3ROvz5habXkSWZCgNiYChfdrY

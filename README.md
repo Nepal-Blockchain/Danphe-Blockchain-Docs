@@ -4,13 +4,13 @@
 
 **Technology Used: ** Ethereum Family
 
-**Consensus Engine :** Clique, Proof Of Authority
+**Consensus Engine :** Clique, Proof Of Authority (POA)
 
 **Fuel Token/Coin Name: ** DBX
 
-**Block Time : ** 15 seconds
+**Block Time : ** 15 seconds (average)
 
-**Total Fixed Supply :** 21 million DBX (pre-mined for free distribution)
+**Total Fixed Supply :** 21 million DBX (100% pre-mined)
 
  
 
