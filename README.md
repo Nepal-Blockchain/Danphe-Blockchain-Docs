@@ -2,7 +2,7 @@
 
 **Name : **Danphe Blockchain As A Service
 
-**Technology Used: ** Ethereum
+**Technology Used: ** Ethereum Family
 
 **Consensus Engine :** Clique, Proof Of Authority
 
@@ -10,7 +10,7 @@
 
 **Block Time : ** 15 seconds
 
-**Total Fixed Supply :** 21 million DBC (pre-mined)
+**Total Fixed Supply :** 21 million DBX (pre-mined for free distribution)
 
  
 
